@@ -1,0 +1,10 @@
+1.
+1248
+
+2.
+onclick CreateNewDoc()
+value New
+onclick OpenDoc()
+value Open
+onclick CloseDoc()
+value Close
