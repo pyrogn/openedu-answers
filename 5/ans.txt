@@ -1,0 +1,71 @@
+1.
+n = input()
+x = list(map(int, input().split()))
+print(*sorted(x))
+2.
+n = int(input())
+stol = []
+for i in range(n):
+    stol.append(input())
+print('\n'.join(sorted(stol)))
+3.
+def mykey(x):
+    return x[1]
+n = int(input())
+gos = []
+for i in range(n):
+    gos.append(input().split())
+l = [' '.join(i) for i in sorted(gos, key=mykey)]
+print('\n'.join(l))
+4.
+print(len(set(input().split())))
+5.
+a = set(input().split())
+b = set(input().split())
+print(len(a.intersection(b)))
+6.
+x = input().split()
+xh = set()
+for i in range(len(x)):
+    if x[i] in xh:
+        print('YES')
+    else:
+        print('NO')
+    xh.add(x[i])
+7.
+a = set(map(int, input().split()))
+b = set(map(int, input().split()))
+print(*sorted(a.intersection(b)))
+8.
+n = int(input())
+all_list = []
+for i in range(n):
+    lang = []
+    m = int(input())
+    for j in range(m):
+        lang.append(input())
+    all_list.append(lang)
+wrep = set(all_list[0])
+for i in range(len(all_list)):
+    wrep = wrep.intersection(all_list[i])
+print(len(wrep))
+echo_eto = sorted(wrep)
+for i in echo_eto:
+    print(i)
+print(len(set([x for y in all_list for x in y])))
+zaebal = sorted(set([x for y in all_list for x in y]))
+for rabotai in zaebal:
+    print(rabotai)
+9.
+n = int(input())
+dic = {}
+for i in range(n):
+    key, value = input().split()
+    dic[key] = value
+sin = input()
+for key, value in dic.items():
+    if sin == key:
+        print(value)
+    elif sin == value:
+        print(key)
+10.
