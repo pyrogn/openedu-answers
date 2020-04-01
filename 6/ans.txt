@@ -1,0 +1,115 @@
+1.
+79936
+2.
+34568147 255016 5617498 0 31397 17 10119996 111
+4.
+The star appears stable, with little stellar variation.
+than 10 times as much dust surrounding Tau Ceti as is present in the Solar System.
+so is thought to be less likely to host rocky planets. Observations have detected more
+from the Solar System, it is a relatively close star. Tau Ceti is metal-deficient and
+although it has only about 78% of the Sun's mass. At a distance of just under 12 light years
+Tau Ceti is a star in the constellation Cetus that is spectrally similar to the Sun,
+5.
+Input file contains:
+44473 letters
+11496 words
+1000 lines
+6.
+four-mile radius. People have called "business of outstretched hands" towards "Kiss
+7.
+.noitairav rallets elttil htiw ,elbats sraeppa rats ehT
+.metsyS raloS eht ni tneserp si sa iteC uaT gnidnuorrus tsud hcum sa semit 01 naht
+erom detceted evah snoitavresbO .stenalp ykcor tsoh ot ylekil ssel eb ot thguoht si os
+dna tneicifed-latem si iteC uaT .rats esolc ylevitaler a si ti ,metsyS raloS eht morf
+sraey thgil 21 rednu tsuj fo ecnatsid a tA .ssam s'nuS eht fo %87 tuoba ylno sah ti hguohtla
+,nuS eht ot ralimis yllartceps si taht suteC noitalletsnoc eht ni rats a si iteC uaT
+8.
+JSC Vector-29
+JSC Vector-8
+JSC Vector-30
+JSC Vector-12
+JSC Vector-10
+JSC Vector-7
+JSC Vector-28
+JSC Vector-16
+JSC Vector-20
+JSC Vector-14
+JSC Vector-2
+JSC Vector-26
+JSC Vector-27
+JSC Vector-9
+JSC Vector-6
+JSC Vector-5
+JSC Vector-25
+JSC Vector-1
+JSC Vector-15
+JSC Vector-19
+JSC Vector-3
+JSC Vector-21
+JSC Vector-11
+JSC Vector-22
+JSC Vector-17
+JSC Vector-18
+JSC Vector-4
+JSC Vector-24
+JSC Vector-23
+JSC Vector-13
+10.
+100
+11.
+Листья собачьей петрушки
+Магнит
+12.
+39650.2
+14.
+Куала-Лумпур Собачий парикмахер
+15.
+Шоколад молочный какао
+Шоколад молочный миндаль
+Сухофрукты
+Омлет с копченостями галагала
+Свинина сублимрованная
+Шоколад ремесленный
+Козинак подсолнечный
+Омлет с грибами галагала
+Козинак арахисовый
+Хлебцы льняные "Тайские"
+Колбаса с/к "Еврейская полусухая"
+Говядина сублимрованная
+Сухарики ржаные с семечками
+Хлебцы льняные Морские
+Суп говяжий с картофелем галагала
+Суп гороховый с копченостями
+Суп гороховый с копченостями галагала
+Суп куриный с картофелем галагала
+Суп-гуляш галагала
+Суп-харчо "Острый"
+Сыр Маасдам
+Сыр Чеддер
+Борщ Московский Галагала
+Крупа гречневая
+Рис пропаренный Увелка
+Свинина Кронидов
+Сухарики ржаные Finn Crisp
+Капеллини Макфа
+Сыр Гауда
+Кус Кус
+Каша Быстров
+Картофель сушеный
+Говядина Кронидов
+Хлебцы с чесноком и луком
+Суп томатный с рисом
+Балык "Королевский"
+Паутина
+16.
+4963 203 307 302
+17.
+2405 82 154 172
+4963 203 307 302
+5219 178 267 502
+4873 241 204 537
+5278 243 314 367
+4451 190 188 497
+4806 205 265 386
+5738 264 195 720
+1766 66 90 171
