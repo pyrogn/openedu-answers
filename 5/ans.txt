@@ -69,3 +69,82 @@ for key, value in dic.items():
     elif sin == value:
         print(key)
 10.
+n = int(input())
+dic = {}
+for i in range(n):
+    all_list = input().split()
+    for j in all_list[1:]:
+        dic[j] = all_list[0]
+m = int(input())
+for i in range(m):
+    city = input()
+    print(dic[city])
+11.
+x = input().split()
+dic = {}
+for i in x:
+    dic[i] = 0
+for i in x:
+    print(dic[i], end=' ')
+    dic[i] += 1
+12.
+x = input().split()
+dic = {}
+for i in x:
+    dic[i] = 0
+for i in x:
+    dic[i] += 1
+dic = dict(sorted(dic.items()))
+print(max(dic, key=dic.get))
+13.
+m = int(input())
+money = {}
+# говнокодим не по деццки
+
+
+def deposit(name, sum):
+    if name not in money.keys():
+        money[name] = 0
+    money[name] += int(sum)
+
+
+def income(p):
+    for key in money.keys():
+        if money[key] > 0:
+            money[key] *= 1 + int(p) / 100
+            money[key] = int(money[key])
+
+
+def balance(name):
+    if name in money.keys():
+        return money[name]
+    else:
+        return 'ERROR'
+
+
+def withdraw(name, sum):
+    if name not in money.keys():
+        money[name] = 0
+    money[name] -= int(sum)
+
+
+def transfer(name1, name2, sum):
+    for i in (name1, name2):
+        if i not in money.keys():
+            money[i] = 0
+    withdraw(name1, int(sum))
+    deposit(name2, int(sum))
+
+
+for i in range(0, m):
+    line = input().split()
+    if line[0] == 'DEPOSIT':
+        deposit(line[1], line[2])
+    elif line[0] == 'INCOME':
+        income(line[1])
+    elif line[0] == 'TRANSFER':
+        transfer(line[1], line[2], line[3])
+    elif line[0] == 'WITHDRAW':
+        withdraw(line[1], line[2])
+    elif line[0] == 'BALANCE':
+        print(balance(line[1]))
