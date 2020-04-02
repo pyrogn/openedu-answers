@@ -5,3 +5,4 @@ df.columns = ['x', 'y', 'z', 'k', 'l']
 with open('15output.txt', 'w') as f:
     for i in df.sort_values(['y', 'x'], ascending=[False, True])['x']:
         f.write(f'{i}\n')
+# Только потом вручную убирал последний \n
